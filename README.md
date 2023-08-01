@@ -2,7 +2,7 @@
 
 本项目是基于vercel反向代理的github专用免翻代理。完全免费。
 
-github页面访问，资源下载均适用。
+github网站访问，资源下载均适用。
 
 vercel现在每月有100GB的免费流量。个人使用应该完全足够。
 
@@ -19,6 +19,6 @@ vercel现在每月有100GB的免费流量。个人使用应该完全足够。
 
 
 ## 示例
-比如原地址为 https://github.com/liujuntao123/vercel-reverse-proxy-github，把其中`github.com`替换为自己vercel服务域名即可。
-比如我的vercel服务域名为`vercel-reverse-proxy-github.vercel.app`,那么就访问https://vercel-reverse-proxy-github.vercel.app/liujuntao123/vercel-reverse-proxy-github
+比如原地址为 https://github.com/liujuntao123/vercel-reverse-proxy-github ,把其中`github.com`替换为自己vercel服务域名即可。
+比如我的vercel服务域名为`vercel-reverse-proxy-github.vercel.app`,那么就访问 https://vercel-reverse-proxy-github.vercel.app/liujuntao123/vercel-reverse-proxy-github
 
